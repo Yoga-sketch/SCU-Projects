@@ -1,7 +1,7 @@
 # SCU-Projects
 Projects undertaken for MSBA at SCU
 
-1. Data Analtics with Python :
+1. Data Analytics with Python :
     - Machine Learning On NHTSA Crash Survey Data: 
         - Using machine learning data analytics techniques in Python, studied crash fatality distribution rates across various states in the USA and proposed effective recommendations to curb the crashes.
 
@@ -17,6 +17,10 @@ Projects undertaken for MSBA at SCU
     - Prediction Of Titanic Survivors:
         - Using feature engineering and Machine Learning models in Python, predicted the titanic survivors with high accuracy.
 
-5. Natural Language Processing :
-    - Coleridge Initiative Dataset Extraction:
-        - With the use of NLP transformers model on Coleridge Initiative data, extracted the dataset labels from various publication texts, which can act as evidence for public decision making.
+5. Data Visualisation with Tableau : 
+    - Student Loan across the states in US:
+        - Created a story board  to help government understand loan distribution across various public and private schools.
+        
+6. Database Management System :
+    - OTT Platform Database System:
+        - Proposed and designed relational DBMS model and performed data extraction for business problems utilizing sophisticated SQL queries.
