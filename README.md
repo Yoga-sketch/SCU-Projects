@@ -17,9 +17,8 @@ Projects undertaken for MSBA at SCU
     - Prediction Of Titanic Survivors:
         - Using feature engineering and Machine Learning models in Python, predicted the titanic survivors with high accuracy.
 
-5. Data Visualisation with Tableau : 
-    - Student Loan across the states in US:
-        - Created a story board  to help government understand loan distribution across various public and private schools.
+5. Data Visualisation : 
+    - Various data Visualisations with Tableau
         
 6. Database Management System :
     - OTT Platform Database System:
