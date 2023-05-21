@@ -2,8 +2,8 @@
 Projects undertaken for MSBA at SCU
 
 1. Data Analytics with Python :
-    - Machine Learning On NHTSA Crash Survey Data: 
-        - Using machine learning data analytics techniques in Python, studied crash fatality distribution rates across various states in the USA and proposed effective recommendations to curb the crashes.
+    - Analysis of NHTSA Crash Survey Data: 
+        - Using data analytics techniques in Python, studied crash fatality distribution rates across various states in the USA and proposed effective recommendations to curb the crashes.
 
 2. Econometrics With R :
     - Statistical Modelling On IPUMS NHIS Survey Data:
